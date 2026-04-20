@@ -22,13 +22,6 @@ It helps users prepare smarter with **AI-generated questions, instant feedback, 
 
 ---
 
-## 🎬 Preview  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
-</p>
-
----
 
 ## 🔥 Features  
 
