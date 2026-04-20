@@ -55,7 +55,7 @@ It helps users prepare smarter with **AI-generated questions, instant feedback, 
 ## ⚙️ Workflow  
 
 ```mermaid
-graph TD;
+graph TD
 A[User Login] --> B[Fill Interview Form]
 B --> C[AI Generates Questions]
 C --> D[User Answers]
