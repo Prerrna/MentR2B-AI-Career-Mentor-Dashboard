@@ -78,39 +78,69 @@ MentR2B/
 ├── public/           # Static assets
 └── styles/           # Styling
 ```
-🚀 Getting Started
-1️⃣ Clone Repo
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the Repository  
+```bash
 git clone https://github.com/your-username/mentr2b.git
 cd mentr2b
-2️⃣ Install Dependencies
+```
+
+### 2️⃣ Install Dependencies  
+```bash
 npm install
-3️⃣ Setup Environment Variables
+```
+
+### 3️⃣ Setup Environment Variables  
+
+Create a `.env` file in the root directory and add:
+
+```env
 DATABASE_URL=
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
 GEMINI_API_KEY=
-4️⃣ Run Locally
+```
+
+### 4️⃣ Run the Project Locally  
+```bash
 npm run dev
-📊 Key Highlights
+```
 
-✨ AI-powered personalized learning
-⚡ Fast & scalable architecture
-📈 Real-time analytics
-🌍 Accessible anywhere
+---
 
-⚠️ Limitations
-AI responses may vary
-Requires internet
-No human interaction
-🔮 Future Scope
-🎤 Voice interviews
-🎥 Video analysis
-📄 Resume evaluation
-📱 Mobile app
-🤝 Contributing
-# Fork → Clone → Create Branch → Commit → Push → PR
-👩‍💻 Author
+## 📊 Key Highlights  
 
-Prerna Kumari
+- ✨ AI-powered personalized learning  
+- ⚡ Fast & scalable architecture  
+- 📈 Real-time analytics  
+- 🌍 Accessible anytime, anywhere  
 
-<p align="center"> <a href="https://linkedin.com/in/your-linkedin"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"> </a> </p>
+---
+
+## ⚠️ Limitations  
+
+- ⚠️ AI responses may vary  
+- 🌐 Requires internet connection  
+- 🤖 No real human interaction  
+
+---
+
+## 🔮 Future Scope  
+
+- 🎤 Voice-based interview system  
+- 🎥 Video interview analysis  
+- 📄 Resume evaluation feature  
+- 📱 Mobile application  
+
+---
+
+## 🤝 Contributing  
+
+We welcome contributions! Follow these steps:
+
+```bash
+Fork → Clone → Create Branch → Commit → Push → Pull Request
+```
+
+---
