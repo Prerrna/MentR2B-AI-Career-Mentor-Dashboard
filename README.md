@@ -1,7 +1,7 @@
 # 🚀 MentR2B – AI Career Mentor & Mock Interview Platform  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=MentR2B&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://mentr2b.vercel.app/_next/image?url=%2Flogo1.png&w=640&q=75" />
 </p>
 
 <p align="center">
