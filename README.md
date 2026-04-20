@@ -62,7 +62,13 @@ C --> D[User Answers]
 D --> E[AI Evaluation]
 E --> F[Dashboard Insights]
 F --> G[PDF Report]
-📂 Project Structure
+```
+
+---
+
+## 📂 Project Structure  
+
+```
 MentR2B/
 ├── app/               # Next.js app router
 ├── components/       # UI components
@@ -71,6 +77,7 @@ MentR2B/
 ├── prisma/           # Database schema
 ├── public/           # Static assets
 └── styles/           # Styling
+```
 🚀 Getting Started
 1️⃣ Clone Repo
 git clone https://github.com/your-username/mentr2b.git
